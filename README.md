@@ -1,5 +1,6 @@
 # Sudoku-Solver
 Sudoku Solver is a python GUI application that uses the backtracking algorithm to find a solution to any solvable sudoku board. It is also a playable game that user can try and solve manually with classic rules and timer. 
+
 ![sudoku-solver](https://raw.githubusercontent.com/willtrinh/Sudoku-Solver/master/autosolve.gif)
 ## Getting Started
 Clone the repository to your local directory:

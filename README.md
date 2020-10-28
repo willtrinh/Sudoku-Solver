@@ -14,7 +14,7 @@ Run the `GUI.py` in Sudoku-Solver directory to play sudoku.
 * Click a box and enter the number on your keybaord to pencil in a number. 
 * Press the <kbd>ENTER</kbd> button to confirm that value on that box. 
 * Press the <kbd>DEL</kbd> button to delete a pencil in number. 
-* Press the <kbd>SPACE</kbd> bar to let the algorithm run and solve the board automatically.
+* Press the <kbd>SPACE</kbd> bar to visualize the algorithm and let it solve the board automatically.
 
 ## Tools used
 * [Python](https://www.python.org/)
